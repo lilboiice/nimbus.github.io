@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to lilduckfeet
+## mery birthmas nimbo🥳
+
+## this is a duck.
+<img src="yellow-duck.jpg" title="just a duck" width=90%>
+
+idonno now go do as u please(╹ڡ╹ )
 
 You can use the [editor on GitHub](https://github.com/lilboiice/nimbus.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
