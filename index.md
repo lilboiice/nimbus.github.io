@@ -1,10 +1,9 @@
-# Welcome to lilduckfeet
-## mery birthmas nimbo🥳
+# mery birthmas nimbo🥳
 
 ## this is a duck.
-<img src="yellow-duck.jpg" title="just a duck" width=90%>
+![Image](yellow-duck.jpg)
 
-idonno now go do as u please(╹ڡ╹ )
+idonno anymore now go do as u please(╹ڡ╹ )
 
 You can use the [editor on GitHub](https://github.com/lilboiice/nimbus.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
